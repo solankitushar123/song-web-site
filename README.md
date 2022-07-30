@@ -1,0 +1,189 @@
+# song-web-site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>all song</title>
+</head>
+<div>
+  <h1>
+    <th> 
+         <pre>                                              ALL SONG </pre>
+    </th>
+  </h1>
+<body>
+  <div>
+        <button type="menu">
+            <svg width="24" height="24" viewbox="0 0 24 24"></svg>
+        </button>
+    </div>
+        <div class="row row2">
+            <h2 class="_h2"> resantly playd </h2>
+         </div>    
+   </div> 
+        <div>
+          <span><a href="recently played.html">see all</a></span>
+          <br>
+            <a href="C:\Users\solan\Downloads\Sulthan - KGF 2.mp3"> sulatan
+                <img src="https://pagalworld.com.se/siteuploads/thumb/sft12/5592_4.jpg" alt="sultan" title="sultani"
+                height="100" width="100" >
+            </a> 
+            <a href="C:\Users\solan\Downloads\Gachni Da Lep(PagalWorld).mp3">gachni da lep
+                <img src="https://pbs.twimg.com/media/DVqj9WfWkAAnslr?format=jpg&name=900x900" alt="ganchi da lep" title="ganchi da lep"
+                hight="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Heart_Attack_1.mp3">Heart_Attack_1
+                <img src="C:\Users\solan\Downloads\heart-attack-ammy-virk.webp" alt="heart attack" title="heart attack"
+                height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Kudiyan_Lahore_Diyan_1.mp3">Kudiyan_Lahore_Diyan_1
+                <img src="C:\Users\solan\Downloads\kudiya lahor.jpg" alt="kudiya lahore diyan" title="kudiyan lahore diyan"height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Rule_Over_Putt_Jattan_Dey_1.mp3">Rule_Over_Putt_Jattan_Dey_1
+                <img src="C:\Users\solan\Downloads\Sajjna-Ve-Sajjna-Mp3-Song-Download-Inder-Chahal.jpg" alt="rule over putt jatt da" title="rule over put jat da" height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Allah_Ve_1.mp3"> Allah_Ve_1
+                <img src="C:\Users\solan\Downloads\allah ve.jpg" alt="allah ve" title="allah ve" height="100" width="100">
+            </a> 
+            
+        </div>     
+     </div>
+ <div rows="2"cols="2">
+       <h2>tranding song</h2>
+       <span><a href="tranding.html"> see all</a>
+        <br>
+        <a href="C:\Users\solan\Downloads\Sulthan - KGF 2.mp3"> sulatan
+            <img src="https://pagalworld.com.se/siteuploads/thumb/sft12/5592_4.jpg" alt="sultan" title="sultani"
+            height="100" width="100" >
+        </a> 
+        <a href="C:\Users\solan\Downloads\Gachni Da Lep(PagalWorld).mp3">gachni da lep
+            <img src="https://pbs.twimg.com/media/DVqj9WfWkAAnslr?format=jpg&name=900x900" alt="ganchi da lep" title="ganchi da lep"
+            hight="100" width="100">
+        </a> 
+        <a href="C:\Users\solan\Downloads\Heart_Attack_1.mp3">Heart_Attack_1
+            <img src="C:\Users\solan\Downloads\heart-attack-ammy-virk.webp" alt="heart attack" title="heart attack"
+            height="100" width="100">
+        </a> 
+        <a href="C:\Users\solan\Downloads\Kudiyan_Lahore_Diyan_1.mp3">Kudiyan_Lahore_Diyan_1
+            <img src="C:\Users\solan\Downloads\kudiya lahor.jpg" alt="kudiya lahore diyan" title="kudiyan lahore diyan"height="100" width="100">
+        </a> 
+        <a href="C:\Users\solan\Downloads\Rule_Over_Putt_Jattan_Dey_1.mp3">Rule_Over_Putt_Jattan_Dey_1
+            <img src="C:\Users\solan\Downloads\Sajjna-Ve-Sajjna-Mp3-Song-Download-Inder-Chahal.jpg" alt="rule over putt jatt da" title="rule over put jat da" height="100" width="100">
+        </a> 
+        <a href="C:\Users\solan\Downloads\Allah_Ve_1.mp3"> Allah_Ve_1
+            <img src="C:\Users\solan\Downloads\allah ve.jpg" alt="allah ve" title="allah ve" height="100" width="100">
+        </a> 
+       </span>
+    </div>
+    <div rows="2"cols="2">
+        <h2>most loved</h2>
+        <span><a href="most love.html"> see all</a>
+            <br>
+            <a href="C:\Users\solan\Downloads\Sulthan - KGF 2.mp3"> sulatan
+                <img src="https://pagalworld.com.se/siteuploads/thumb/sft12/5592_4.jpg" alt="sultan" title="sultani"
+                height="100" width="100" >
+            </a> 
+            <a href="C:\Users\solan\Downloads\Gachni Da Lep(PagalWorld).mp3">gachni da lep
+                <img src="https://pbs.twimg.com/media/DVqj9WfWkAAnslr?format=jpg&name=900x900" alt="ganchi da lep" title="ganchi da lep"
+                hight="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Heart_Attack_1.mp3">Heart_Attack_1
+                <img src="C:\Users\solan\Downloads\heart-attack-ammy-virk.webp" alt="heart attack" title="heart attack"
+                height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Kudiyan_Lahore_Diyan_1.mp3">Kudiyan_Lahore_Diyan_1
+                <img src="C:\Users\solan\Downloads\kudiya lahor.jpg" alt="kudiya lahore diyan" title="kudiyan lahore diyan"height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Rule_Over_Putt_Jattan_Dey_1.mp3">Rule_Over_Putt_Jattan_Dey_1
+                <img src="C:\Users\solan\Downloads\Sajjna-Ve-Sajjna-Mp3-Song-Download-Inder-Chahal.jpg" alt="rule over putt jatt da" title="rule over put jat da" height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Allah_Ve_1.mp3"> Allah_Ve_1
+                <img src="C:\Users\solan\Downloads\allah ve.jpg" alt="allah ve" title="allah ve" height="100" width="100">
+            </a> 
+        </span>
+     </div>
+     <div rows="2"cols="2">
+        <h2>new arivel</h2>
+        <span><a href="new ariwal.html"> see all</a>
+            <br>
+            <a href="C:\Users\solan\Downloads\Sulthan - KGF 2.mp3"> sulatan
+                <img src="https://pagalworld.com.se/siteuploads/thumb/sft12/5592_4.jpg" alt="sultan" title="sultani"
+                height="100" width="100" >
+            </a> 
+            <a href="C:\Users\solan\Downloads\Gachni Da Lep(PagalWorld).mp3">gachni da lep
+                <img src="https://pbs.twimg.com/media/DVqj9WfWkAAnslr?format=jpg&name=900x900" alt="ganchi da lep" title="ganchi da lep"
+                hight="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Heart_Attack_1.mp3">Heart_Attack_1
+                <img src="C:\Users\solan\Downloads\heart-attack-ammy-virk.webp" alt="heart attack" title="heart attack"
+                height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Kudiyan_Lahore_Diyan_1.mp3">Kudiyan_Lahore_Diyan_1
+                <img src="C:\Users\solan\Downloads\kudiya lahor.jpg" alt="kudiya lahore diyan" title="kudiyan lahore diyan"height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Rule_Over_Putt_Jattan_Dey_1.mp3">Rule_Over_Putt_Jattan_Dey_1
+                <img src="C:\Users\solan\Downloads\Sajjna-Ve-Sajjna-Mp3-Song-Download-Inder-Chahal.jpg" alt="rule over putt jatt da" title="rule over put jat da" height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Allah_Ve_1.mp3"> Allah_Ve_1
+                <img src="C:\Users\solan\Downloads\allah ve.jpg" alt="allah ve" title="allah ve" height="100" width="100">
+            </a> 
+        </span>
+     </div>
+     <div rows="2"cols="2">
+        <h2>panjabi tuning</h2>
+        <span><a href="punjabi tuning.html"> see all</a>
+            <br>
+            <a href="C:\Users\solan\Downloads\Sulthan - KGF 2.mp3"> sulatan
+                <img src="https://pagalworld.com.se/siteuploads/thumb/sft12/5592_4.jpg" alt="sultan" title="sultani"
+                height="100" width="100" >
+            </a> 
+            <a href="C:\Users\solan\Downloads\Gachni Da Lep(PagalWorld).mp3">gachni da lep
+                <img src="https://pbs.twimg.com/media/DVqj9WfWkAAnslr?format=jpg&name=900x900" alt="ganchi da lep" title="ganchi da lep"
+                hight="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Heart_Attack_1.mp3">Heart_Attack_1
+                <img src="C:\Users\solan\Downloads\heart-attack-ammy-virk.webp" alt="heart attack" title="heart attack"
+                height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Kudiyan_Lahore_Diyan_1.mp3">Kudiyan_Lahore_Diyan_1
+                <img src="C:\Users\solan\Downloads\kudiya lahor.jpg" alt="kudiya lahore diyan" title="kudiyan lahore diyan"height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Rule_Over_Putt_Jattan_Dey_1.mp3">Rule_Over_Putt_Jattan_Dey_1
+                <img src="C:\Users\solan\Downloads\Sajjna-Ve-Sajjna-Mp3-Song-Download-Inder-Chahal.jpg" alt="rule over putt jatt da" title="rule over put jat da" height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Allah_Ve_1.mp3"> Allah_Ve_1
+                <img src="C:\Users\solan\Downloads\allah ve.jpg" alt="allah ve" title="allah ve" height="100" width="100">
+            </a> 
+        </span>
+     </div>
+     <div rows="2"cols="2">
+        <h2>lofi 90*s</h2>
+        <span><a href="lofi.html"> see all</a>
+            <br>
+            <a href="C:\Users\solan\Downloads\Sulthan - KGF 2.mp3"> sulatan
+                <img src="https://pagalworld.com.se/siteuploads/thumb/sft12/5592_4.jpg" alt="sultan" title="sultani"
+                height="100" width="100" >
+            </a> 
+            <a href="C:\Users\solan\Downloads\Gachni Da Lep(PagalWorld).mp3">gachni da lep
+                <img src="https://pbs.twimg.com/media/DVqj9WfWkAAnslr?format=jpg&name=900x900" alt="ganchi da lep" title="ganchi da lep"
+                hight="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Heart_Attack_1.mp3">Heart_Attack_1
+                <img src="C:\Users\solan\Downloads\heart-attack-ammy-virk.webp" alt="heart attack" title="heart attack"
+                height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Kudiyan_Lahore_Diyan_1.mp3">Kudiyan_Lahore_Diyan_1
+                <img src="C:\Users\solan\Downloads\kudiya lahor.jpg" alt="kudiya lahore diyan" title="kudiyan lahore diyan"height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Rule_Over_Putt_Jattan_Dey_1.mp3">Rule_Over_Putt_Jattan_Dey_1
+                <img src="C:\Users\solan\Downloads\Sajjna-Ve-Sajjna-Mp3-Song-Download-Inder-Chahal.jpg" alt="rule over putt jatt da" title="rule over put jat da" height="100" width="100">
+            </a> 
+            <a href="C:\Users\solan\Downloads\Allah_Ve_1.mp3"> Allah_Ve_1
+                <img src="C:\Users\solan\Downloads\allah ve.jpg" alt="allah ve" title="allah ve" height="100" width="100">
+            </a> 
+        </span>
+     </div>
+</body>
+</html>
